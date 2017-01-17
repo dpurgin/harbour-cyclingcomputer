@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="fonts/dseg14.ttf">resources/fonts/dseg14.ttf</file>
+        <file alias="fonts/dseg7.ttf">resources/fonts/desg7.ttf</file>
+        <file alias="fonts/fontawesome.ttf">resources/fonts/fontawesome.ttf</file>
+    </qresource>
+</RCC>
